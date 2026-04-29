@@ -2,7 +2,7 @@
 
 # Tiny Tapeout Verilog Project Template
 
-- [Read the documentation for project](docs/info.md)
+GPR
 
 ## What is Tiny Tapeout?
 
